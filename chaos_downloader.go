@@ -4,7 +4,7 @@
 // This file, 'everything.txt', is saved in the directory from which the script is executed, providing a consolidated
 // view of the textual data gathered from the downloaded archives.
 package main
-
+//de me vleps?
 import (
 	"archive/zip"
 	"encoding/json"
